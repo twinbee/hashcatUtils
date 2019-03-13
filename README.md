@@ -24,3 +24,6 @@ bananacar
 bananatruck
 ```
 
+## talkEnglishTop1500Nouns.txt
+
+A dictionary of the 1500 most commonly spoken English language nouns
