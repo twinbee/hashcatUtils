@@ -1,6 +1,7 @@
 from itertools import product
-file1 = 'talkEnglishTop1500Nouns.txt'
-file2 = 'numbers00To99.txt'
+import sys
+file1 = sys.argv[1] 
+file2 = sys.argv[2] 
 print('\n'.join((''.join(elt) 
 	for elt in (product(*((line.strip() 
 		for line in filehandle) 

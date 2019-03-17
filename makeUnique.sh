@@ -1,0 +1,1 @@
+awk '!seen[$0]++' file.txt
