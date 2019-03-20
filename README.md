@@ -44,7 +44,7 @@ All the 4-digit numbers including and excluding leading zeroes.
 
 ## makeUnique.sh
 
-uses an awk associative array to remove duplicatr lines form a file
+uses an awk associative array to remove duplicate lines from a file
 
 ## removeLongLines.sh
 
